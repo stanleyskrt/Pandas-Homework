@@ -136,7 +136,6 @@ def shift_by_letter(letter, letter_shift):
     '''
     # Replace `pass` with your code.
     # Stay within the function. Only use the parameters as input. The function should return your answer.
-def shift_by_letter (letter, letter_shift):
     str(letter)
     str(letter_shift)
     alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
